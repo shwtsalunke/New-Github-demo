@@ -1,0 +1,248 @@
+11/22/24, 10:51 AM
+Print Invoice
+TRUCKING, INC
+Bill To:
+NOTICE OF ASSIGNMENT
+This invoice is assigned to, owned by
+MVP Logistics LLC
+and only payable to:
+CAPITAL DEPOT INC
+10205 10th Ave N Ste
+8930 Waukegan Rd Suite 230
+Morton Grove, IL 60053
+Plymouth, MN 55441
+Any disputes, claims, etc., must be
+reported to Capital Depot Inc at
+847-470-1687
+immediately upon receipt of this invoice
+UNIT# 179
+Date:
+11/22/2024
+Invoices Due Within 14 Days of Invoice Date
+Invoice:
+34965
+Reference: 1072655
+PICK-UP DATE
+17m
+DELIVERY DATE
+PICK-UP LOCATION
+DELIVERY LOCATION
+11/21/2024
+11/22/2024
+Sioux Falls, SD
+Davenport, IA
+Rate:
+$ 1,100.00
+Advance:
+$ 0
+Unloading/Lumper:
+$ 0.00
+TOTAL AMOUNT DUE:
+$ 1,100.00
+THANK YOU FOR USING GOGA TRUCKING INC
+www.gogatrucking.com
+4685 MERLE HAY RD SUITE 209 DES MONIES, IA 50322
+PHONE: 515-602-7095 FAX: 0
+https://gogatrucking.techspra.com/home/printInvoice.asp?selLoadNo=34965
+1/1
+
+Carrier Rate and Load Confirmation
+MVP Logistics (MC# 820234)
+2860 Vicksburg Ln N
+MVP
+Plymouth, MN 55447
+Eric Glosser
+ericg@mvpship.com
+Load Number: MVP1072655
+Carrier: Goga Trucking Inc.
+Date: 11/19/2024
+Contact: Tom Klacar, (p) 5156027095 (f)
+Equipment Type: Dry Van 53'
+Shipper Pickup (Stop 1)
+TJN ENTERPRISES
+Pickup Instructions:
+6511 EAST RICE STREET
+Shipper References:
+SIOUX FALLS, SD US 57110
+Instructions:
+Expected Date: 11/21/2024
+Pickup/Delivery Number: 8464WW991
+Shipping/Receiving Hours: 08:00-15:00
+Appointment Required: No
+Appointment Time: 08:00-15:00
+Contact:
+Consignee Delivery (Stop 2)
+ALERIS
+Delivery Instructions:
+2101 J M MORRIS BLVD
+Consignee References:
+DAVENPORT, IA US 52802
+Instructions:
+Expected Date: 11/22/2024
+Pickup/Delivery Number: 8464WW991
+Shipping/Receiving Hours: 08:00-08:00
+Appointment Required: Yes
+Appointment Time: 09:00
+Contact: MVP Operations 763-390-5320 ops@mvpship.com
+Shipment Information
+Handling Unit
+Package
+LTL Only
+Qty Type
+Qty
+Type
+Weight
+HM (X)
+Commodity Description
+NMFC #
+NMFC Class
+Pallets
+44999 lbs
+Baled Scrap Metal
+Carrier Fees
+Description
+Cost
+Net Freight Charges
+USD 1,000.00
+Accessorial Charges
+USD 100.00
+Total Cost
+USD 1,100.00
+Fee Details
+Item Description
+Unit
+Quantity
+Unit Price
+Total
+Net Freight Charges
+Fixed Cost
+1.00
+USD 1,000.00
+USD 1,000.00
+Fuel Surcharge
+Fixed Cost
+1.00
+USD
+USD
+Macropoint Compliance
+Fixed Cost
+1.00
+USD 100.00
+USD 100.00
+***MVP broker must be made aware of all additional fees or penalties (such as but not limited to lumpers,
+detention, layovers, late fees, etc) within 48 hours of final delivery or subject to non-extra
+reimbursement. Company policy for detention is $30/hour, TONU is $150, and layover is $250. Remit To
+
+Email: carrierinvoices@mvpship.com
+
+Control #: 180876
+Straight Bill of Lading
+Sellers Contract #: 106082
+Reference #: 8464WW991
+Customer Order #: 128359/71299
+MVP LOG GOGA TRUCKING
+RECEIVED, subject to the classifications and tariffs in effect on the date of the Bill of Lading,
+at SIOUX FALLS
+11/21/2024 TJN Enterprises, Inc.
+the property described below, in apparent good order, except as noted (contents and conditions of contents of packages unknown), marked, consigned,
+and destined as indicated below. which said carrier (the word carrier being understood throughout this contract as meaning any person or corporation in
+possession of the property under the contract) agrees to carry to its usual place of delivery at said destination, if on its own route, otherwise to deliver to
+another carrier on the route to said destination It is mutually agreed. as to each carrier of all or any of said property over all or any portion of said route to
+destination, and as to each party at any time interested in all or any of said property. that every service to be performed hereunder shall be subject to all
+the terms and conditions of the Uniform Domestic Straight Bill of Lading set forth (1) in Uniform Freight Classification in effect on the date thereof, if this is
+a rail or rail-water shipment. or (2) in the applicable motor carrier classification or tariff if this is a motor carrier shipment.
+Shipper hereby certifies that he is familiar with all the terms and conditions of the said bill of lading, including those on the back thereof,
+set forth in the classification or tariff which governs the transportation of this shipment, and the said terms and conditions are hereby
+agreed to by the shipper and accepted for himself and his assigns.
+Consigned to
+NOVELIS ALR ROLLED PRODUCTS, LLC 2101 JM MORRIS BLVD
+Destination
+DAVENPORT
+State IA
+Zip 52802
+Address
+Seal # 514928
+Route
+Delivering Carrier
+Vehicle:
+GOGA TRUCKING
+Appointment:
+MVP LOG / GOGA TRUCKING
+Trailer 179/5347
+11/22/2024 09:00
+Special Instructions
+ENCLOSED PLEASE FIND A DETAILED PACKING LIST
+WITH WEIGHTS AND GRADES.
+PLEASE NOTIFY TJN ENT. OF ANY WEIGHT OR GRADE
+DIFFERENCE AT TIME OF
+UNLOADING. 605-334-7001
+THANK YOU
+CHECKED FOR RADIATION
+No.
+KIND OF PACKAGE, DESCRIPTION OF ARTICLES, SPECIAL MARKS, AND EXCEPTIONS
+Packages
+24
+3105 PAINTED SIDING BALED
+44970
+48 44,922
+Subject to Section 7 of Conditions of
+applicable bill of lading. if this shipment is to
+be delivered to the consignee withour
+recourse on the consignor the consignor
+shall sign the following statement
+The carrier shall not make delivery of
+this shipment without payment of freight
+all other lawful mara
+If and are
+600
+(Sig
+of Carrier)
+charges are to be prepaid write or stamp
+"To be Prepaid."
+To Be Prepaid
+WEIGHT
+CLASS
+Received $
+CHECK
+Subject to Correction)
+OR RATE
+COLUMN
+to
+apply in prepayment of the charges on the
+GROSS
+property described heron
+44970
+Agent or Cashier
+TARE
+48
+Per
+NET
+44922
+(The signature here acknowledges
+only the amount prepaid
+If the shipment moves between two ports by a carrier by water the law requires that the bill of lading state whether it s carrier's or shipper's weight
+Charges Advanced
+Where the rate is dependent on value shippers are required to state spcifically in writing exceeding agreed or declared value of the property
+The
+$
+agreed NOTE or - declared value of the property is hereby specifically stated by the shipper to be not
+fibre boxes used for this shipment conform to the specifications set forth in the box maker's certificate theron and all other requirements of the
+of Shipper's imprint in lieu of stamp not a part
+The
+Consolidated Freight Classification
+Commerce Commission
+Bill of Lading approved by the Interstate
+PER
+SHIPPER TJN Enterprises, Inc.
+SHIPPER:6511
+E
+RICE
+STREET
+SIOUX
+FALLS
+SD
+57110
+P.O.
+ADDRESS
+OF
+BOX
